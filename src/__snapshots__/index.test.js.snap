@@ -12,6 +12,7 @@ Object {
         Array [
           "@babel/preset-env",
           Object {
+            "corejs": 3,
             "targets": Object {
               "node": "current",
             },
